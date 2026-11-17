@@ -1,0 +1,13 @@
+__pycache__
+.venv/
+.mlarena_submission
+.env
+data/
+runs/
+checkpoints/
+*.pth
+*.npz
+*.mp4
+runs_smoke/
+*.zip
+old/
